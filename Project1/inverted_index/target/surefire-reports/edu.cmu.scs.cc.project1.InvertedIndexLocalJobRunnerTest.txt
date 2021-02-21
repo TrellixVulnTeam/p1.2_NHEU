@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.cmu.scs.cc.project1.InvertedIndexLocalJobRunnerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.556 sec - in edu.cmu.scs.cc.project1.InvertedIndexLocalJobRunnerTest
